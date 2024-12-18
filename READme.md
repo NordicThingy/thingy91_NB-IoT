@@ -84,3 +84,4 @@ Dans cette section, vous pourrez installer, désinstaller et sélectionner la ve
 -   Complétez Pin avec le Pin écrit en dessous du numéro IMEI
 -   Laissez Sub Type vide et vous avez fini de tout ajouter
 - Pour lire les données, appuyez sur votre appareil dans Device Management > Devices et vous pouvez lire vos données
+- Une fois que tout est bien paramétré, la carte devrait clignoter en vert puis en violet (cela signifie que la carte a réussi à détecter les données des capteurs puis à récupéré la localisation)
