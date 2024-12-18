@@ -67,6 +67,7 @@ Dans cette section, vous pourrez installer, désinstaller et sélectionner la ve
 - Cliquez ensuite sur Write, puis Write à nouveau dans la fenêtre de confirmation pour flasher le code.
 
 **Lire les données:**
+⚠️Avant de faire cette étape, assurez vous d'avoir bien envoyé le programme dans le Thingy:91
 - Inscrivez vous sur https://nrfcloud.com/
 - Assure-toi d'avoir une carte SIM activée pour NB-IoT ou LTE-M. Tu peux en obtenir une auprès de ton opérateur ou de Nordic Semiconductor si elle est incluse dans le kit de développement.
 - Sur le site, il vous ajouter votre carte SIM et votre Thingy:91
@@ -77,6 +78,7 @@ Dans cette section, vous pourrez installer, désinstaller et sélectionner la ve
 -   Complétez ensuite les informations personnelles demandés (⚠️le numéro de téléphone doit être au format E164 (+XXYYYYYYYYY) XX correspond au code du pays (France = 33) et YYYYYYYYY correspond au numéro de téléphone sans le 0
 -   Faites save et la carte SIM est ajouté au site
 - Ajouter maintenant le Thingy:91 dans Device Management > Devices
+⚠️Assurez vous d'avoir inséré la carte SD dans le Thingy:91 et que celui-ci clignote en rouge et vert (4:1)
 -   Appuyez sur Add Devices > LTE Device
 -   Dans la nouvelle page, complétez Device ID avec : nrf-XXXXXXXXXXXXXXX (XXXXXXXXXXXXXXX Correspond au code IMEI écrit sur le Thingy:91 en enlevant l'opercule orange)
 -   Complétez Pin avec le Pin écrit en dessous du numéro IMEI
