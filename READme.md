@@ -24,7 +24,7 @@ Suivez les étapes ci-dessous pour la configuration :
 2. Installation de Visual Studio Code
   - Rendez-vous sur https://code.visualstudio.com/download et installez la version de VS Code correspondant à votre système d'exploitation.
 
-4. Installation du nRF Connect Extension Pack dans VS Code
+3. Installation du nRF Connect Extension Pack dans VS Code
   - Dans la barre d'activités de VS Code, cliquez sur l'icône Extensions.
   - Recherchez nRF Connect for VS Code Extension Pack, puis cliquez sur Installer.
 
