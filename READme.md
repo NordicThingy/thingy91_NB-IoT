@@ -75,10 +75,10 @@ Dans cette section, vous pourrez installer, désinstaller et sélectionner la ve
 -   Dans la page, ajouter le ICCID écris sur le support de la carte SIM
 -   Ajouter le code PUK situé sous le gris a enlever avec une pièce pour lire le nombre et l'écrire
 -   Cliquez sur Add Sim
--   Complétez ensuite les informations personnelles demandés (⚠️le numéro de téléphone doit être au format E164 (+XXYYYYYYYYY) XX correspond au code du pays (France = 33) et YYYYYYYYY correspond au numéro de téléphone sans le 0
+-   Complétez ensuite les informations personnelles demandés (⚠️le numéro de téléphone doit être au format E164 (+XXYYYYYYYYY) XX correspond au code du pays (France = 33) et YYYYYYYYY correspond au numéro de téléphone sans le 0)
 -   Faites save et la carte SIM est ajouté au site
 - Ajouter maintenant le Thingy:91 dans Device Management > Devices
-⚠️Assurez vous d'avoir inséré la carte SD dans le Thingy:91 et que celui-ci clignote en rouge et vert (4:1)
+⚠️Assurez vous d'avoir inséré la carte SD dans le Thingy:91 et que celui-ci clignote en rouge et vert (4 secondes:1 seconde)
 -   Appuyez sur Add Devices > LTE Device
 -   Dans la nouvelle page, complétez Device ID avec : nrf-XXXXXXXXXXXXXXX (XXXXXXXXXXXXXXX Correspond au code IMEI écrit sur le Thingy:91 en enlevant l'opercule orange)
 -   Complétez Pin avec le Pin écrit en dessous du numéro IMEI
