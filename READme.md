@@ -8,7 +8,7 @@ Ce projet permet de détecter les chocs et l'orientation du Thingy:91 de Nordic 
 - nRF Connect for Desktop
 - Visual Studio Code avec l'extension nRF Connect for VS Code
 - nRF Cloud
-- Câble USB-C
+- Câble micro-USB
 
 
 **Installation et Configuration:**
